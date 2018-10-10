@@ -1,0 +1,15 @@
+Louie Tse
+027168103
+lttse@myseneca.ca
+IPC144SUU
+
+1)The 3 iteration constructs are 'while', 'do while' and 'for'.
+
+2)The difference between while and do while is that do while has to 
+run through the iteration once and then test the condition whereas while 
+will test the conditions first.
+
+3)A conditional expression means an expression that has to be met in order
+for the code to run or the code to continue to loop. Once those conditions are
+not met the code will stop. For example when a<5 produce a code if not then 
+the program will not proceed.

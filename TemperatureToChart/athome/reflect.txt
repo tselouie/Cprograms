@@ -1,0 +1,25 @@
+// Name:Louie Tse	
+
+// Student Number:027168103
+
+// Email:lttse@myseneca.ca
+
+// Section:SUU
+
+// Workshop:4
+
+
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+
+The array has to hold 10 elements because it requires 4 values from high and 4 values from low and each of the variables requires a null terminator which equates to 10.
+
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays?
+
+An advantage of having matching arrays is that you can assign different numbers to the arrays and refer back to them. However, a downfall is that the code is restricted 
+in a sense that if you have used matching arrays it is difficult to change the semantics of the code.
+
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+It was just right because it uses aspects of what we learned and allowed us to implement it in the new code. The fact that it uses our brain a little but at the same time
+it is not to the point where I have no clue what to do.

@@ -1,0 +1,7 @@
+3. findContextIndex allows the program easily to match the right user and getTenDigitPhone makes it so 
+that if an incorrect number of digits are entered an easy failsafe is to be implemented without rewriting code.
+All you have to do in order to ask for an input after it was incorrectly entered was is to call the 'getTenDigitPhone
+function.
+
+4.The importance of having lots of cohesion and very little coupling in the function. To have these aspects while creating your functions
+makes for very modular and high reusability code.
