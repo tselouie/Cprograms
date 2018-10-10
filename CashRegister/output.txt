@@ -1,0 +1,14 @@
+Script started on Thu 21 Sep 2017 09:25:25 PM EDT
+lttse@matrix:~/w2/at-home> ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+lttse@matrix:~/w2/at-home> exit
+exit
+
+Script done on Thu 21 Sep 2017 09:25:31 PM EDT

@@ -1,0 +1,26 @@
+Name:Louie Tse
+Email:lttse@myseneca.ca
+Student #027168103
+
+1-	What do think is the most important thing you learned in this workshop?
+
+	The most important thing I learned int his workshop is the use of casting and remainder.
+	I had learned that the division modulus only works with integer numbers and not floats
+	and as well I did not know that you could have it displayed as a float by entering a certain
+	syntax in the print statement.
+
+2-	Why must you add .005 to the value derived when calculating the GST owing?
+
+	Adding .005 rounds the number up to the 13 which allows the calculations to become more accurate.
+
+3-	What is the result of a casting operation?
+
+	The casting operation allows you to change the type of number the variable is for a certain statement.
+	By having the option of using casting you are able to use floats and integers interchangeably.
+
+4-	Why do you think you were required to use the modulus operator in this workshop?
+
+	Although there are easier ways to complete the task using the modulus operator requires
+	us to think differently and utilize more functions within the C code. This enables us to
+	learn from something we have absolutely no experience with. I did have a very tough time
+	with this lab because the concept seems to be difficult to apply.
